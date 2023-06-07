@@ -1,0 +1,5 @@
+stanza==1.4.0
+bioc==2.0.post4
+spacy==3.2.4
+transformers==4.18.0
+
